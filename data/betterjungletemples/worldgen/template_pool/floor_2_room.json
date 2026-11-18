@@ -1,0 +1,314 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:floor_2/room/floor_2_corridor_room_0",
+        "max_count": 1,
+        "name": "floor_2_corridor_room",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 20
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:floor_2/room/floor_2_corridor_room_1",
+        "max_count": 1,
+        "name": "floor_2_corridor_room",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 20
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:floor_2/room/floor_2_corridor_room_2",
+        "max_count": 1,
+        "name": "floor_2_corridor_room",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 20
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:floor_2/room/floor_2_dripstone_room_0",
+        "max_count": 1,
+        "name": "floor_2_dripstone_room",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 20
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:floor_2/room/floor_2_dripstone_room_1",
+        "max_count": 1,
+        "name": "floor_2_dripstone_room",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 20
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:floor_2/room/floor_2_dripstone_room_2",
+        "max_count": 1,
+        "name": "floor_2_dripstone_room",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 20
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:floor_2/room/floor_2_parkour_room_0",
+        "max_count": 1,
+        "name": "floor_2_parkour_room",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 12
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:floor_2/room/floor_2_parkour_room_1",
+        "max_count": 1,
+        "name": "floor_2_parkour_room",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 12
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:floor_2/room/floor_2_parkour_room_2",
+        "max_count": 1,
+        "name": "floor_2_parkour_room",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 12
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:floor_2/room/floor_2_parkour_room_3",
+        "max_count": 1,
+        "name": "floor_2_parkour_room",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 12
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:floor_2/room/floor_2_parkour_room_4",
+        "max_count": 1,
+        "name": "floor_2_parkour_room",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 12
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:floor_2/room/floor_2_pressure_plate_room_0",
+        "max_count": 1,
+        "name": "floor_2_pressure_plate_room",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 12
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:floor_2/room/floor_2_pressure_plate_room_1",
+        "max_count": 1,
+        "name": "floor_2_pressure_plate_room",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 12
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:floor_2/room/floor_2_pressure_plate_room_2",
+        "max_count": 1,
+        "name": "floor_2_pressure_plate_room",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 12
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:floor_2/room/floor_2_pressure_plate_room_3",
+        "max_count": 1,
+        "name": "floor_2_pressure_plate_room",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 12
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:floor_2/room/floor_2_pressure_plate_room_4",
+        "max_count": 1,
+        "name": "floor_2_pressure_plate_room",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 12
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:floor_2/room/floor_2_puzzle_room_0",
+        "max_count": 1,
+        "name": "floor_2_puzzle_room",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 20
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:floor_2/room/floor_2_puzzle_room_1",
+        "max_count": 1,
+        "name": "floor_2_puzzle_room",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 20
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:floor_2/room/floor_2_puzzle_room_2",
+        "max_count": 1,
+        "name": "floor_2_puzzle_room",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 20
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:floor_2/room/floor_2_vine_room_0",
+        "max_count": 1,
+        "name": "floor_2_vine_room",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 15
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:floor_2/room/floor_2_vine_room_1",
+        "max_count": 1,
+        "name": "floor_2_vine_room",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 15
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:floor_2/room/floor_2_vine_room_2",
+        "max_count": 1,
+        "name": "floor_2_vine_room",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 15
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:floor_2/room/floor_2_vine_room_3",
+        "max_count": 1,
+        "name": "floor_2_vine_room",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 15
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:floor_2/room/floor_2_water_room_0",
+        "max_count": 1,
+        "name": "floor_2_water_room",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 12
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:floor_2/room/floor_2_water_room_1",
+        "max_count": 1,
+        "name": "floor_2_water_room",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 12
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:floor_2/room/floor_2_water_room_2",
+        "max_count": 1,
+        "name": "floor_2_water_room",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 12
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:floor_2/room/floor_2_water_room_3",
+        "max_count": 1,
+        "name": "floor_2_water_room",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 12
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:floor_2/room/floor_2_water_room_4",
+        "max_count": 1,
+        "name": "floor_2_water_room",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 12
+    }
+  ],
+  "fallback": "minecraft:empty",
+  "name": "betterjungletemples:floor_2_room"
+}

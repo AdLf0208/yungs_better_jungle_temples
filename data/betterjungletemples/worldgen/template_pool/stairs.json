@@ -1,0 +1,72 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:stairs/stairs_0",
+        "max_count": 1,
+        "name": "stairs_0",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:stairs/stairs_1",
+        "max_count": 1,
+        "name": "stairs_1",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:stairs/stairs_2",
+        "max_count": 1,
+        "name": "stairs_2",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:stairs/stairs_3",
+        "max_count": 1,
+        "name": "stairs_3",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:stairs/stairs_4",
+        "max_count": 1,
+        "name": "stairs_4",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:stairs/stairs_5",
+        "max_count": 1,
+        "name": "stairs_5",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ],
+  "fallback": "minecraft:empty",
+  "name": "betterjungletemples:stairs"
+}
