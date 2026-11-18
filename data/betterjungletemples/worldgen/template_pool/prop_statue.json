@@ -1,0 +1,56 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "ignore_bounds": true,
+        "location": "betterjungletemples:props/prop_statue_0",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 1000
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "ignore_bounds": true,
+        "location": "betterjungletemples:props/prop_statue_1",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 1000
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "ignore_bounds": true,
+        "location": "betterjungletemples:props/prop_statue_2",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 1000
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "ignore_bounds": true,
+        "location": "betterjungletemples:props/prop_emerald_block",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 50
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "ignore_bounds": true,
+        "location": "betterjungletemples:props/prop_statue_sus",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ],
+  "fallback": "minecraft:empty",
+  "name": "betterjungletemples:prop_statue"
+}
