@@ -1,0 +1,149 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:challenge_room/statue/challenge_statue_azalea",
+        "max_count": 1,
+        "name": "challenge_room_statue_azalea",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:challenge_room/statue/challenge_statue_bamboo",
+        "max_count": 1,
+        "name": "challenge_room_statue_bamboo",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:challenge_room/statue/challenge_statue_bone",
+        "max_count": 1,
+        "name": "challenge_room_statue_bone",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:challenge_room/statue/challenge_statue_candle",
+        "max_count": 1,
+        "name": "challenge_room_statue_candle",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:challenge_room/statue/challenge_statue_cocoabeans",
+        "max_count": 1,
+        "name": "challenge_room_statue_cocoabeans",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:challenge_room/statue/challenge_statue_emerald",
+        "max_count": 1,
+        "name": "challenge_room_statue_emerald",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:challenge_room/statue/challenge_statue_glowberry",
+        "max_count": 1,
+        "name": "challenge_room_statue_glowberry",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:challenge_room/statue/challenge_statue_gold",
+        "max_count": 1,
+        "name": "challenge_room_statue_gold",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:challenge_room/statue/challenge_statue_honey",
+        "max_count": 1,
+        "name": "challenge_room_statue_honey",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:challenge_room/statue/challenge_statue_iron",
+        "max_count": 1,
+        "name": "challenge_room_statue_iron",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:challenge_room/statue/challenge_statue_mossblock",
+        "max_count": 1,
+        "name": "challenge_room_statue_mossblock",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:challenge_room/statue/challenge_statue_watermelon",
+        "max_count": 1,
+        "name": "challenge_room_statue_watermelon",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:challenge_room/statue/challenge_statue_cherryblossom",
+        "max_count": 1,
+        "name": "challenge_room_statue_cherryblossom",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ],
+  "fallback": "minecraft:empty",
+  "name": "betterjungletemples:challenge_room_statue"
+}

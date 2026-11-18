@@ -1,0 +1,15 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:misc/minecart",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ],
+  "fallback": "minecraft:empty",
+  "name": "betterjungletemples:misc"
+}

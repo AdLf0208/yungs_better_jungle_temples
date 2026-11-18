@@ -1,0 +1,511 @@
+{
+  "processors": [
+    {
+      "processor_type": "horizon:pick",
+      "block": "minecraft:green_stained_glass",
+      "picks": [
+        {
+          "below": 0.05,
+          "state": {
+            "id": "minecraft:cobblestone_slab",
+            "properties": {
+              "type": "top"
+            }
+          }
+        },
+        {
+          "below": 0.1,
+          "state": {
+            "id": "minecraft:mossy_cobblestone_slab",
+            "properties": {
+              "type": "top"
+            }
+          }
+        },
+        {
+          "below": 0.12,
+          "state": {
+            "id": "minecraft:cave_vines"
+          }
+        },
+        {
+          "below": 0.14,
+          "state": {
+            "id": "minecraft:hanging_roots"
+          }
+        }
+      ],
+      "default": {
+        "state": {
+          "id": "minecraft:air"
+        }
+      }
+    },
+    {
+      "processor_type": "horizon:pick",
+      "block": "minecraft:torch",
+      "picks": [
+        {
+          "below": 0.9,
+          "state": {
+            "id": "minecraft:air"
+          }
+        }
+      ]
+    },
+    {
+      "processor_type": "horizon:pick",
+      "block": "minecraft:wall_torch",
+      "picks": [
+        {
+          "below": 0.9,
+          "state": {
+            "id": "minecraft:air"
+          }
+        }
+      ]
+    },
+    {
+      "processor_type": "horizon:pick",
+      "block": "minecraft:blue_concrete",
+      "picks": [
+        {
+          "below": 0.15,
+          "state": {
+            "id": "minecraft:cobblestone"
+          }
+        },
+        {
+          "below": 0.3,
+          "state": {
+            "id": "minecraft:mossy_cobblestone"
+          }
+        }
+      ],
+      "default": {
+        "state": {
+          "id": "minecraft:water"
+        }
+      }
+    },
+    {
+      "processor_type": "horizon:pick",
+      "block": "minecraft:pink_concrete",
+      "picks": [],
+      "default": {
+        "state": {
+          "id": "minecraft:infested_cobblestone"
+        }
+      }
+    },
+    {
+      "processor_type": "horizon:yung_pillar",
+      "target_block": {
+        "id": "minecraft:orange_stained_glass"
+      },
+      "target_block_output": {
+        "entries": [
+          {
+            "blockState": {
+              "id": "minecraft:mossy_cobblestone"
+            },
+            "probability": 0.6
+          }
+        ],
+        "defaultBlockState": {
+          "id": "minecraft:cobblestone"
+        }
+      },
+      "pillar_states": {
+        "entries": [
+          {
+            "blockState": {
+              "id": "minecraft:mossy_cobblestone"
+            },
+            "probability": 0.6
+          }
+        ],
+        "defaultBlockState": {
+          "id": "minecraft:cobblestone"
+        }
+      }
+    },
+    {
+      "processor_type": "horizon:pick",
+      "block": "minecraft:granite",
+      "picks": [
+        {
+          "below": 0.4,
+          "state": {
+            "id": "minecraft:mossy_cobblestone"
+          }
+        },
+        {
+          "below": 0.45,
+          "state": {
+            "id": "minecraft:moss_block"
+          }
+        },
+        {
+          "below": 0.5,
+          "state": {
+            "id": "minecraft:grass_block"
+          }
+        },
+        {
+          "below": 0.6,
+          "state": {
+            "id": "minecraft:cobblestone_slab"
+          }
+        },
+        {
+          "below": 0.7,
+          "state": {
+            "id": "minecraft:mossy_cobblestone_slab"
+          }
+        }
+      ],
+      "default": {
+        "state": {
+          "id": "minecraft:cobblestone"
+        }
+      }
+    },
+    {
+      "processor_type": "horizon:pick",
+      "block": "minecraft:polished_granite",
+      "picks": [
+        {
+          "below": 0.25,
+          "state": {
+            "id": "minecraft:mossy_cobblestone"
+          }
+        },
+        {
+          "below": 0.3,
+          "state": {
+            "id": "minecraft:infested_cobblestone"
+          }
+        }
+      ],
+      "default": {
+        "state": {
+          "id": "minecraft:cobblestone"
+        }
+      }
+    },
+    {
+      "processor_type": "horizon:pick",
+      "block": "minecraft:smooth_red_sandstone",
+      "picks": [
+        {
+          "below": 0.6,
+          "state": {
+            "id": "minecraft:mossy_stone_bricks"
+          }
+        }
+      ],
+      "default": {
+        "state": {
+          "id": "minecraft:stone_bricks"
+        }
+      }
+    },
+    {
+      "processor_type": "horizon:pick",
+      "block": "minecraft:red_sandstone_slab",
+      "picks": [
+        {
+          "below": 0.6,
+          "state": {
+            "id": "minecraft:mossy_stone_brick_slab"
+          }
+        }
+      ],
+      "default": {
+        "state": {
+          "id": "minecraft:stone_brick_slab"
+        }
+      },
+      "keep_properties": true
+    },
+    {
+      "processor_type": "horizon:pick",
+      "block": "minecraft:smooth_red_sandstone_slab",
+      "picks": [
+        {
+          "below": 0.6,
+          "state": {
+            "id": "minecraft:mossy_stone_brick_slab"
+          }
+        }
+      ],
+      "default": {
+        "state": {
+          "id": "minecraft:stone_brick_slab"
+        }
+      },
+      "keep_properties": true
+    },
+    {
+      "processor_type": "horizon:pick",
+      "block": "minecraft:cut_red_sandstone_slab",
+      "picks": [
+        {
+          "below": 0.6,
+          "state": {
+            "id": "minecraft:mossy_stone_brick_slab"
+          }
+        }
+      ],
+      "default": {
+        "state": {
+          "id": "minecraft:stone_brick_slab"
+        }
+      },
+      "keep_properties": true
+    },
+    {
+      "processor_type": "horizon:pick",
+      "block": "minecraft:red_sandstone_wall",
+      "picks": [
+        {
+          "below": 0.6,
+          "state": {
+            "id": "minecraft:mossy_stone_brick_wall"
+          }
+        }
+      ],
+      "default": {
+        "state": {
+          "id": "minecraft:stone_brick_wall"
+        }
+      },
+      "keep_properties": true
+    },
+    {
+      "processor_type": "horizon:pick",
+      "block": "minecraft:chiseled_red_sandstone",
+      "picks": [
+        {
+          "below": 0.25,
+          "state": {
+            "id": "minecraft:infested_chiseled_stone_bricks"
+          }
+        }
+      ],
+      "default": {
+        "state": {
+          "id": "minecraft:chiseled_stone_bricks"
+        }
+      }
+    },
+    {
+      "processor_type": "horizon:pick",
+      "block": "minecraft:red_sandstone",
+      "picks": [
+        {
+          "below": 0.4,
+          "state": {
+            "id": "minecraft:mossy_stone_bricks"
+          }
+        },
+        {
+          "below": 0.5,
+          "state": {
+            "id": "minecraft:stone_brick_slab"
+          }
+        },
+        {
+          "below": 0.6,
+          "state": {
+            "id": "minecraft:mossy_stone_brick_slab"
+          }
+        },
+        {
+          "below": 0.7,
+          "state": {
+            "id": "minecraft:stone_brick_stairs"
+          }
+        },
+        {
+          "below": 0.8,
+          "state": {
+            "id": "minecraft:mossy_stone_brick_stairs"
+          }
+        }
+      ],
+      "default": {
+        "state": {
+          "id": "minecraft:stone_bricks"
+        }
+      }
+    },
+    {
+      "processor_type": "horizon:pick",
+      "block": "minecraft:red_sandstone_stairs",
+      "picks": [
+        {
+          "below": 0.6,
+          "state": {
+            "id": "minecraft:mossy_stone_brick_stairs"
+          }
+        }
+      ],
+      "default": {
+        "state": {
+          "id": "minecraft:stone_brick_stairs"
+        }
+      },
+      "keep_properties": true
+    },
+    {
+      "processor_type": "horizon:pick",
+      "block": "minecraft:smooth_red_sandstone_stairs",
+      "picks": [
+        {
+          "below": 0.6,
+          "state": {
+            "id": "minecraft:mossy_stone_brick_stairs"
+          }
+        }
+      ],
+      "default": {
+        "state": {
+          "id": "minecraft:stone_brick_stairs"
+        }
+      },
+      "keep_properties": true
+    },
+    {
+      "processor_type": "horizon:pick",
+      "block": "minecraft:granite_stairs",
+      "picks": [
+        {
+          "below": 0.3,
+          "state": {
+            "id": "minecraft:mossy_cobblestone_stairs"
+          }
+        },
+        {
+          "below": 0.4,
+          "state": {
+            "id": "minecraft:cobblestone_slab"
+          }
+        },
+        {
+          "below": 0.5,
+          "state": {
+            "id": "minecraft:mossy_cobblestone_slab"
+          }
+        },
+        {
+          "below": 0.7,
+          "state": {
+            "id": "minecraft:air"
+          }
+        }
+      ],
+      "default": {
+        "state": {
+          "id": "minecraft:cobblestone_stairs"
+        }
+      },
+      "keep_properties": true
+    },
+    {
+      "processor_type": "horizon:pick",
+      "block": "minecraft:polished_granite_stairs",
+      "picks": [
+        {
+          "below": 0.3,
+          "state": {
+            "id": "minecraft:mossy_cobblestone"
+          }
+        },
+        {
+          "below": 0.4,
+          "state": {
+            "id": "minecraft:cobblestone_stairs"
+          }
+        },
+        {
+          "below": 0.5,
+          "state": {
+            "id": "minecraft:mossy_cobblestone_stairs"
+          }
+        }
+      ],
+      "default": {
+        "state": {
+          "id": "minecraft:cobblestone"
+        }
+      },
+      "keep_properties": true
+    },
+    {
+      "processor_type": "horizon:pick",
+      "block": "minecraft:bricks",
+      "picks": [
+        {
+          "below": 0.6,
+          "state": {
+            "id": "minecraft:mossy_cobblestone"
+          }
+        }
+      ],
+      "default": {
+        "state": {
+          "id": "minecraft:cobblestone"
+        }
+      }
+    },
+    {
+      "processor_type": "horizon:pick",
+      "block": "minecraft:granite_slab",
+      "picks": [
+        {
+          "below": 0.6,
+          "state": {
+            "id": "minecraft:mossy_cobblestone_slab"
+          }
+        }
+      ],
+      "default": {
+        "state": {
+          "id": "minecraft:cobblestone_slab"
+        }
+      },
+      "keep_properties": true
+    },
+    {
+      "processor_type": "horizon:pick",
+      "block": "minecraft:polished_granite_slab",
+      "picks": [
+        {
+          "below": 0.6,
+          "state": {
+            "id": "minecraft:mossy_cobblestone_slab"
+          }
+        }
+      ],
+      "default": {
+        "state": {
+          "id": "minecraft:cobblestone_slab"
+        }
+      },
+      "keep_properties": true
+    },
+    {
+      "processor_type": "horizon:pick",
+      "block": "minecraft:soul_wall_torch",
+      "picks": [],
+      "default": {
+        "state": {
+          "id": "minecraft:wall_torch"
+        }
+      },
+      "keep_properties": true
+    }
+  ]
+}

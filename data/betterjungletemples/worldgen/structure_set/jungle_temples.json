@@ -1,0 +1,31 @@
+{
+  "structures": [
+    {
+      "structure": "betterjungletemples:jungle_temple",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 996971851,
+    "spacing": 24,
+    "separation": 8,
+    "spread_type": "linear",
+    "horizon:exclusion_zone": {
+      "other_sets": [
+        "minecraft:jungle_temples"
+      ],
+      "chunk_count": 4,
+      "their_zones": false
+    },
+    "horizon:avoid_biomes": {
+      "biomes": [
+        "#minecraft:is_river",
+        "#minecraft:is_ocean"
+      ],
+      "radius": 48,
+      "step": 2,
+      "y": 120
+    }
+  }
+}

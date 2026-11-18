@@ -1,0 +1,28 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:floor_2/pit/floor_2_pit_dripstone",
+        "max_count": 1,
+        "name": "floor_2_pit_dripstone",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "yungsapi:yung_single_element",
+        "location": "betterjungletemples:floor_2/pit/floor_2_pit_magma",
+        "max_count": 1,
+        "name": "floor_2_pit_magma",
+        "processors": "betterjungletemples:main",
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ],
+  "fallback": "minecraft:empty",
+  "name": "betterjungletemples:floor_2_pit"
+}
